@@ -1,0 +1,14 @@
+C:\Users\Lenovo\RiderProjects\Zadacha.Abramyan\Zadacha.Abramyan\bin\Debug\net10.0\Zadacha.Abramyan.exe
+C:\Users\Lenovo\RiderProjects\Zadacha.Abramyan\Zadacha.Abramyan\bin\Debug\net10.0\Zadacha.Abramyan.deps.json
+C:\Users\Lenovo\RiderProjects\Zadacha.Abramyan\Zadacha.Abramyan\bin\Debug\net10.0\Zadacha.Abramyan.runtimeconfig.json
+C:\Users\Lenovo\RiderProjects\Zadacha.Abramyan\Zadacha.Abramyan\bin\Debug\net10.0\Zadacha.Abramyan.dll
+C:\Users\Lenovo\RiderProjects\Zadacha.Abramyan\Zadacha.Abramyan\bin\Debug\net10.0\Zadacha.Abramyan.pdb
+C:\Users\Lenovo\RiderProjects\Zadacha.Abramyan\Zadacha.Abramyan\obj\Debug\net10.0\Zadacha.Abramyan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\RiderProjects\Zadacha.Abramyan\Zadacha.Abramyan\obj\Debug\net10.0\Zadacha.Abramyan.AssemblyInfoInputs.cache
+C:\Users\Lenovo\RiderProjects\Zadacha.Abramyan\Zadacha.Abramyan\obj\Debug\net10.0\Zadacha.Abramyan.AssemblyInfo.cs
+C:\Users\Lenovo\RiderProjects\Zadacha.Abramyan\Zadacha.Abramyan\obj\Debug\net10.0\Zadacha.Abramyan.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\RiderProjects\Zadacha.Abramyan\Zadacha.Abramyan\obj\Debug\net10.0\Zadacha.Abramyan.dll
+C:\Users\Lenovo\RiderProjects\Zadacha.Abramyan\Zadacha.Abramyan\obj\Debug\net10.0\refint\Zadacha.Abramyan.dll
+C:\Users\Lenovo\RiderProjects\Zadacha.Abramyan\Zadacha.Abramyan\obj\Debug\net10.0\Zadacha.Abramyan.pdb
+C:\Users\Lenovo\RiderProjects\Zadacha.Abramyan\Zadacha.Abramyan\obj\Debug\net10.0\Zadacha.Abramyan.genruntimeconfig.cache
+C:\Users\Lenovo\RiderProjects\Zadacha.Abramyan\Zadacha.Abramyan\obj\Debug\net10.0\ref\Zadacha.Abramyan.dll
