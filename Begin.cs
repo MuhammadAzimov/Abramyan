@@ -13,7 +13,8 @@ class Begin
 
         double b = double.Parse(Console.ReadLine());
         Console.WriteLine(b * b);
-        //begin 3
+        //begin 3  
+        
         double c = double.Parse(Console.ReadLine());
         double d = double.Parse(Console.ReadLine());
         Console.WriteLine("s=" + (c * d));
