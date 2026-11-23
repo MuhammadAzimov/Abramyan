@@ -12,3 +12,4 @@ C:\Users\Lenovo\RiderProjects\Zadacha.Abramyan\Zadacha.Abramyan\obj\Debug\net10.
 C:\Users\Lenovo\RiderProjects\Zadacha.Abramyan\Zadacha.Abramyan\obj\Debug\net10.0\Zadacha.Abramyan.pdb
 C:\Users\Lenovo\RiderProjects\Zadacha.Abramyan\Zadacha.Abramyan\obj\Debug\net10.0\Zadacha.Abramyan.genruntimeconfig.cache
 C:\Users\Lenovo\RiderProjects\Zadacha.Abramyan\Zadacha.Abramyan\obj\Debug\net10.0\ref\Zadacha.Abramyan.dll
+C:\Users\Lenovo\RiderProjects\Zadacha.Abramyan\Zadacha.Abramyan\obj\Debug\net10.0\Zadacha.Abramyan.sourcelink.json
