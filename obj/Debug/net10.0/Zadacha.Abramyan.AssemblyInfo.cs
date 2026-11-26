@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zadacha.Abramyan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9c94d04a1f60ef58a194cae548a41dd1d039599")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b83d167660380a32cf7a863494b191097dd6820d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zadacha.Abramyan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zadacha.Abramyan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
