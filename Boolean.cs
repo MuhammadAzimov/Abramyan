@@ -2,8 +2,7 @@
 
 public class Boolean
 {
-    static void Main(string[] args)
-    {
+  
         /*
         //boolean 1
         
@@ -175,4 +174,3 @@ public class Boolean
 
 
     }
-}
