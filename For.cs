@@ -1,9 +1,10 @@
-﻿namespace Zadacha.Abramyan;
+﻿using System.Security.Cryptography.X509Certificates;
+
+namespace Zadacha.Abramyan;
 
 public class For
 {
-    static void Main()
-    {/*
+   /*
        //for1
        
        int a=int.Parse(Console.ReadLine()); 
@@ -461,7 +462,141 @@ public class For
 
             Console.WriteLine(f);
         }
-        */
         
+        
+        //for 31
+
+        int n = int.Parse(Console.ReadLine());
+        double a = 2;
+        Console.WriteLine(a);
+        for (int k = 1; k <= n; k++)
+        {
+            a = 2 + 1.0 / a;
+            Console.WriteLine(a);
+        }
+
+        
+        
+        //for 32
+        
+     
+        int n = int.Parse(Console.ReadLine());
+        double a = 1;
+        Console.WriteLine(a);
+        for (int k = 1; k <= n; k++)
+        {
+            a = (a + 1.0) / k;
+            Console.WriteLine(a);
+        }
+        
+        
+        //for 33
+        
+        
+        int a=int.Parse(Console.ReadLine());
+        int p1 = 1;
+        int p2 = 1;
+        Console.WriteLine($"{p1} + {p2} ");
+        for (int k = 3; k <= a; k++)
+        {
+            int c = p1 + p2;
+            Console.WriteLine(c);
+        }
+        //for 34
+        
+        int a=int.Parse(Console.ReadLine());
+        double p1 = 2;
+        double p2 = 1;
+        Console.WriteLine($"{p1} + {p2} ");
+        for (int k = 3; k <= a; k++)
+        {
+            double c = (p1 +2* p2)/3.0;
+            Console.WriteLine(c);
+        }
+        
+        //for 35
+        
+        
+        int a=int.Parse(Console.ReadLine());
+        int  p1 = 1;
+        int  p2 = 2;
+        int p3 = 3;
+        Console.WriteLine($"{p1} + {p2}+{p3} ");
+        for (int k = 4; k <= a; k++)
+        {
+            double c =( p3 + p2 * 2 / p1);
+            Console.WriteLine(c);
+        }
+        
+        
+        //for 36
+
+
+
+        int n = int.Parse(Console.ReadLine());
+        int k=int.Parse(Console.ReadLine());
+        double sum = 0;
+        for (int i = 1; i <= n; i++)
+
+        {
+            sum += Math.Pow(i, k);
+            Console.WriteLine(sum);
+        }
+        
+        
+        
+        //for 37
+        
+        
+        
+        int n = int.Parse(Console.ReadLine());
+        double sum = 0;
+        for (int i = 1; i <= n; i++)
+
+        {
+            sum += Math.Pow(i, i);
+            Console.WriteLine(sum);
+        }
+        
+        //for 38
+        
+        
+        int n = int.Parse(Console.ReadLine());
+        double sum = 0;
+        for (int i = 1; i <= n; i++)
+
+        {
+            sum += Math.Pow(i,n-i+ 1);
+            Console.WriteLine(sum);
+        }
+        
+        
+        //for 39
+        
+        int a=int.Parse(Console.ReadLine());
+        int b = int.Parse(Console.ReadLine());
+        for (int i = a; i <= b; i++)
+        {
+            for (int j = 1; i <= i; i++)
+            {
+                Console.WriteLine(i);
+            }
+        }
+        
+        
+        //for 40
+        
+        
+        int a=int.Parse(Console.ReadLine());
+        int b = int.Parse(Console.ReadLine());
+        for (int i = a; i <= b; i++)
+        {
+            int count = i - a + 1;
+            for (int j = 1; i <= count; i++)
+            {
+                Console.WriteLine(i);
+            }
+        }
+        */
     }
-}
+    
